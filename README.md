@@ -1,2 +1,3 @@
-# my-project
-new project
+debian linux
+foss lab
+hello world
